@@ -1,0 +1,25 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "Webscraping Example using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:mediainformatics/scrape"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node",
+    "Puppeteer",
+    "Web-Scraping"
+  ],
+  "author": "J. K. Singer",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.1.0"
+  }
+}
